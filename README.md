@@ -3,13 +3,13 @@
 <h2>About me</h2>
 
 <li>
-::marker
-- 💻📚 3rd year Computer science student
+
+ 💻📚 3rd year Computer science student
 
 
--✈ World traveler
+✈ World traveler
 
--🦾Creative with good interpersonal skills and leadership skills.  Self-motivated with the ability to motivate people. Passionate about learning and developing
+🦾Creative with good interpersonal skills and leadership skills.  Self-motivated with the ability to motivate people. Passionate about learning and developing
 
   </li>
 
