@@ -29,8 +29,13 @@
 
 
 
-<h2>Development environments</h2>
-
+<h2>Development environments and Tools</h2>
+<p>
+<img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" data-src="https://cdn-icons-png.flaticon.com/128/906/906324.png" alt="Visual studio free icon" title="Visual studio free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/906/906324.png 4x">
+ <img src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494740.png?token=exp=1638461841~hmac=0a168d34f1598af44ae78204af391069" data-src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494740.png?token=exp=1638461841~hmac=0a168d34f1598af44ae78204af391069" alt="Git free icon" title="Git free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/4494/premium/4494740.png?token=exp=1638461841~hmac=0a168d34f1598af44ae78204af391069 4x">
+ <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" data-src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" alt="Github free icon" title="Github free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/2111/2111432.png 4x">
+ 
+</p>
 
 
 <h2>Contact me</h2>
