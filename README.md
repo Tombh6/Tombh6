@@ -3,7 +3,7 @@
 
 <h2>About me</h2>
 
-<li> 💻📚 3rd year Computer science student</li>
+<li> 💻📚 3rd year Computer Science student</li>
 
 
 <li>✈ World traveler</li>
