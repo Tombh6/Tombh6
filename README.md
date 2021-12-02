@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm Tom
 
 <h2>About me</h2>
+::marker
 - 💻📚 3rd year Computer science student
 
 
 -✈ World traveler
 
 -🦾Creative with good interpersonal skills and leadership skills.  Self-motivated with the ability to motivate people. Passionate about learning and developing
-
+::after
 <h2>Languages</h2>
 
 
