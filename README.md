@@ -35,7 +35,7 @@
  <img src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494740.png?token=exp=1638461841~hmac=0a168d34f1598af44ae78204af391069" data-src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494740.png?token=exp=1638461841~hmac=0a168d34f1598af44ae78204af391069" alt="Git free icon" title="Git free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/4494/premium/4494740.png?token=exp=1638461841~hmac=0a168d34f1598af44ae78204af391069 4x">
  <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" data-src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" alt="Github free icon" title="Github free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/2111/2111432.png 4x">
 
-<img data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="94" height="64" alt="Eclipse Software Logo, HD Png Download - kindpng" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUW34W0ZX5OlEJa-nePuhm-mQra8LxW4zhEw&amp;usqp=CAU">
+<img data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="144" height="64" alt="Eclipse Software Logo, HD Png Download - kindpng" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUW34W0ZX5OlEJa-nePuhm-mQra8LxW4zhEw&amp;usqp=CAU">
  
 </p>
 
