@@ -44,8 +44,9 @@
 
 
 <h2>Contact me</h2>
+<a href="https://www.linkedin.com/in/tom-ben-hamo-2b62b1168/" rel="unfollow">
 <img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1638469807~hmac=97d600de4dbb45549940bf825ef37b0a" data-src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1638469807~hmac=97d600de4dbb45549940bf825ef37b0a" alt="Linkedin free icon" title="Linkedin free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1638469807~hmac=97d600de4dbb45549940bf825ef37b0a 4x">
- 
+ </a>
 
 
 
