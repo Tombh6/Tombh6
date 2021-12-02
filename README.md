@@ -2,7 +2,7 @@
 
 
 <h2>About me</h2>
-
+<p>
 <li> 💻📚 3rd year Computer Science student</li>
 
 
@@ -10,7 +10,7 @@
 
 
 <li>🦾Creative with good interpersonal skills and leadership skills. Self-motivated with the ability to motivate people. Passionate about learning and developing</li>
- 
+ </p>
 
 <h2>Languages</h2>
 <p>
