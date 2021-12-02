@@ -9,7 +9,7 @@
 <li>✈ World traveler</li>
 
 
-<li>🦾Creative with good interpersonal skills and leadership skills. Self-motivated with the ability to motivate people. Passionate about learning <br> and developing</li>
+<li>🦾Creative with good interpersonal skills and leadership skills. Self-motivated with the ability to motivate people. Passionate about learning <br><br> and developing</li>
  
 
 <h2>Languages</h2>
