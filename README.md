@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm Tom
 
-<!--
-**Tombh6/Tombh6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me<\h2>
+- 💻📚 3rd year Computer science student
+-✈ World traveler
+-🦾Creative with good interpersonal skills and leadership skills.  Self-motivated with the ability to motivate people. Passionate about learning and developing
 
-Here are some ideas to get you started:
+<h2>Languages<\h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2>Development environments<\h2>
+
+
+
+<h2>Contact me<\h2>
+<i class="fa fa-linkedin-square" style="font-size:36px" url:("https://www.linkedin.com/in/tom-ben-hamo-2b62b1168/")></i>
+
+
