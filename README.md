@@ -12,7 +12,7 @@
  
 
 <h2>Languages</h2>
-
+<img src="https://cdn-icons-png.flaticon.com/128/4179/4179568.png" data-src="https://cdn-icons-png.flaticon.com/128/4179/4179568.png" alt="Html file free icon" title="Html file free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/4179/4179568.png 4x">
 
 
 <h2>Development environments</h2>
