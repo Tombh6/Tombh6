@@ -17,7 +17,14 @@
 <img src="https://cdn-icons-png.flaticon.com/128/3600/3600912.png" data-src="https://cdn-icons-png.flaticon.com/128/3600/3600912.png" alt="C free icon" title="C free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/3600/3600912.png 4x">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" data-src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="Html 5 free icon" title="Html 5 free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5968/5968267.png 4x">
 <img src="https://cdn-icons.flaticon.com/png/128/721/premium/721671.png?token=exp=1638461204~hmac=7c10c5c3827c6e32889057aeb4400fc9" data-src="https://cdn-icons.flaticon.com/png/128/721/premium/721671.png?token=exp=1638461204~hmac=7c10c5c3827c6e32889057aeb4400fc9" alt="Java script free icon" title="Java script free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/721/premium/721671.png?token=exp=1638461204~hmac=7c10c5c3827c6e32889057aeb4400fc9 4x">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" data-src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="Css 3 free icon" title="Css 3 free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5968/5968242.png 4x">
+ <img src="https://cdn-icons-png.flaticon.com/128/919/919854.png" data-src="https://cdn-icons-png.flaticon.com/128/919/919854.png" alt="Java free icon" title="Java free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/919/919854.png 4x">
+ <img src="https://cdn-icons.flaticon.com/png/128/5548/premium/5548384.png?token=exp=1638461479~hmac=44bbc404241fe4cf314674c8ec4ae35b" data-src="https://cdn-icons.flaticon.com/png/128/5548/premium/5548384.png?token=exp=1638461479~hmac=44bbc404241fe4cf314674c8ec4ae35b" alt="Python free icon" title="Python free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/5548/premium/5548384.png?token=exp=1638461479~hmac=44bbc404241fe4cf314674c8ec4ae35b 4x">
+<a href="https://www.flaticon.com/premium-icon/sql-server_5815809" class="view link-icon-detail" title="Sql server" data-id="5815809" data-src="?term=sql&amp;page=1&amp;position=5">
+      <img src="https://cdn-icons.flaticon.com/png/128/5815/premium/5815809.png?token=exp=1638461584~hmac=c7f2e80793dd6186b9c82fa9f6e7cfce" data-src="https://cdn-icons.flaticon.com/png/128/5815/premium/5815809.png?token=exp=1638461584~hmac=c7f2e80793dd6186b9c82fa9f6e7cfce" alt="Sql server free icon" title="Sql server free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/5815/premium/5815809.png?token=exp=1638461584~hmac=c7f2e80793dd6186b9c82fa9f6e7cfce 4x">
+    </a>
 </p>
+
 
 
 
