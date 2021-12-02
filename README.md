@@ -44,8 +44,8 @@
 
 
 <h2>Contact me</h2>
-<body>
+
  <a href:"https://www.linkedin.com/in/tom-ben-hamo-2b62b1168/"><i class="fa fa-linkedin-square" style="font-size:36px"></i></a>
 
-</body>
+
 
