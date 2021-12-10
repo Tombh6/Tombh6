@@ -43,7 +43,7 @@
  
  <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" data-src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/2111/2111432.png 4x">
 
-<img data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="164" height="64" alt="monday.com Reviews: Pricing &amp; Software Features 2021 - Financesonline.com" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRua5USlskPSzPBJvx7MRikZUsy4BqeGrGUgw&amp;usqp=CAU">
+<img data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="174" height="64"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRua5USlskPSzPBJvx7MRikZUsy4BqeGrGUgw&amp;usqp=CAU">
 
 
 <p>
