@@ -42,14 +42,14 @@
  <img src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494748.png?token=exp=1638792267~hmac=7bf6ee9a6350ef266c56cc54e2365307" data-src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494748.png?token=exp=1638792267~hmac=7bf6ee9a6350ef266c56cc54e2365307"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/4494/premium/4494748.png?token=exp=1638792267~hmac=7bf6ee9a6350ef266c56cc54e2365307 4x">
  
  <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" data-src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/2111/2111432.png 4x">
-
+<p>
   <img data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="64" height="64" alt="IDEA 15 EAP - IntelliJ IDEA - Confluence" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkm9g9VxzTKh5gsjEMiI3CRkrP9aGi9dVxVw&amp;usqp=CAU">
  
 <img data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="164" height="64" alt="Eclipse Software Logo, HD Png Download - kindpng" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUW34W0ZX5OlEJa-nePuhm-mQra8LxW4zhEw&amp;usqp=CAU">
 
  <img src="https://www.startertutorials.com/blog/wp-content/uploads/2019/01/Android-Studio-Logo-Icon.png" alt="Android-Studio-Logo-Icon - My Blog" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 164px; height: 64px; margin: 47.25px 0px;">
  
- 
+ </p>
 </p>
 
 
