@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Tom <img src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/>
+### Hi there 👋 I'm Tom <img style="width:15px; height:15px;" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/>
 
 
 <h2>About me</h2>
