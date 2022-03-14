@@ -21,7 +21,11 @@
 <img src="https://cdn-icons-png.flaticon.com/128/3600/3600912.png" data-src="https://cdn-icons-png.flaticon.com/128/3600/3600912.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/3600/3600912.png 4x">
 <img src="https://cdn-icons.flaticon.com/png/128/721/premium/721671.png?token=exp=1638461204~hmac=7c10c5c3827c6e32889057aeb4400fc9" data-src="https://cdn-icons.flaticon.com/png/128/721/premium/721671.png?token=exp=1638461204~hmac=7c10c5c3827c6e32889057aeb4400fc9" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/721/premium/721671.png?token=exp=1638461204~hmac=7c10c5c3827c6e32889057aeb4400fc9 4x">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" data-src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5968/5968267.png 4x">
+ 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" data-src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5968/5968242.png 4x">
+ 
+ <img src="https://img.icons8.com/color/48/000000/python--v2.png" width="64" height="64" />
+ 
  <img src="https://cdn-icons-png.flaticon.com/128/919/919854.png" data-src="https://cdn-icons-png.flaticon.com/128/919/919854.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/919/919854.png 4x">
 
  <img src="https://cdn-icons.flaticon.com/png/128/5548/premium/5548384.png?token=exp=1638461479~hmac=44bbc404241fe4cf314674c8ec4ae35b" data-src="https://cdn-icons.flaticon.com/png/128/5548/premium/5548384.png?token=exp=1638461479~hmac=44bbc404241fe4cf314674c8ec4ae35b"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/5548/premium/5548384.png?token=exp=1638461479~hmac=44bbc404241fe4cf314674c8ec4ae35b 4x">
