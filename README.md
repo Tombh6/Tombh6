@@ -25,7 +25,7 @@
  
  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" data-src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5968/5968242.png 4x">
  
-
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" data-src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5968/5968267.png 4x">
  
 
  
@@ -33,8 +33,7 @@
  
  <img src="https://cdn-icons-png.flaticon.com/128/919/919854.png" data-src="https://cdn-icons-png.flaticon.com/128/919/919854.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/919/919854.png 4x">
 
- <img src="https://cdn-icons.flaticon.com/png/128/5548/premium/5548384.png?token=exp=1638461479~hmac=44bbc404241fe4cf314674c8ec4ae35b" data-src="https://cdn-icons.flaticon.com/png/128/5548/premium/5548384.png?token=exp=1638461479~hmac=44bbc404241fe4cf314674c8ec4ae35b"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/5548/premium/5548384.png?token=exp=1638461479~hmac=44bbc404241fe4cf314674c8ec4ae35b 4x">
-<a href="https://www.flaticon.com/premium-icon/sql-server_5815809" class="view link-icon-detail" title="Sql server" data-id="5815809" data-src="?term=sql&amp;page=1&amp;position=5">
+ 
 
 <img src="https://cdn-icons.flaticon.com/png/128/5815/premium/5815809.png?token=exp=1638789528~hmac=bd993e21efce5e380fde9f0eb95cceb6" data-src="https://cdn-icons.flaticon.com/png/128/5815/premium/5815809.png?token=exp=1638789528~hmac=bd993e21efce5e380fde9f0eb95cceb6"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/5815/premium/5815809.png?token=exp=1638789528~hmac=bd993e21efce5e380fde9f0eb95cceb6 4x">
 
