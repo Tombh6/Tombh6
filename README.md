@@ -19,7 +19,7 @@
 <p>
 <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" data-src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"   width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/6132/6132222.png 4x">
  
-<img src="https://cdn-icons-png.flaticon.com/128/3600/3600912.png" data-src="https://cdn-icons-png.flaticon.com/128/3600/3600912.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/3600/3600912.png 4x">
+
  
 <img src="https://cdn-icons.flaticon.com/png/128/721/premium/721671.png?token=exp=1638461204~hmac=7c10c5c3827c6e32889057aeb4400fc9" data-src="https://cdn-icons.flaticon.com/png/128/721/premium/721671.png?token=exp=1638461204~hmac=7c10c5c3827c6e32889057aeb4400fc9" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/721/premium/721671.png?token=exp=1638461204~hmac=7c10c5c3827c6e32889057aeb4400fc9 4x">
  
