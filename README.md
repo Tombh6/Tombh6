@@ -3,13 +3,13 @@
 
 <h2>About me</h2>
 
-<li> 💻📚 3rd year Computer Science student</li>
+<li><p> 💻📚 3rd year Computer Science student</p></li>
 
 
-<li>✈ World traveler</li>
+<li><p>✈ World traveler</p></li>
 
 
-<li>🐶 Dog person </li>
+<li><p>🐶 Dog person</p> </li>
 
 
 <li><p>🦾Creative with good interpersonal skills and leadership skills, Self-motivated with the ability to motivate people.</p> </li>
