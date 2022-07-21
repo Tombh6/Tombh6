@@ -10,7 +10,7 @@
 <li>🐶 Dog person </li>
 
 
-<li>🦾 Creative with good interpersonal skills and leadership skills, Self-motivated with the ability to motivate people.</li>
+<li>🦾 <p>Creative with good interpersonal skills and leadership skills, Self-motivated with the ability to motivate people.</p> </li>
 
 
 <li>👨‍💻 Passionate about learning and developing</li>
