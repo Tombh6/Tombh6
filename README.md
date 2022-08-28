@@ -3,7 +3,7 @@
 
 <h2>About me</h2>
 
-<li><p> 💻📚 3rd year Computer Science student</p></li>
+<li><p> 👨🏻‍🎓 B.Sc in Computer Science</p></li>
 
 
 <li><p>✈ World traveler</p></li>
