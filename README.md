@@ -43,7 +43,7 @@
 
  
 
-<img src="https://cdn-icons.flaticon.com/png/128/5815/premium/5815809.png?token=exp=1638789528~hmac=bd993e21efce5e380fde9f0eb95cceb6" data-src="https://cdn-icons.flaticon.com/png/128/5815/premium/5815809.png?token=exp=1638789528~hmac=bd993e21efce5e380fde9f0eb95cceb6"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/5815/premium/5815809.png?token=exp=1638789528~hmac=bd993e21efce5e380fde9f0eb95cceb6 4x">
+
 
 </p>
 
