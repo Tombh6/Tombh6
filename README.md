@@ -72,7 +72,7 @@
 
 <h2>🖋 Contact me </h2>
 <a href="https://www.linkedin.com/in/tom-ben-hamo/" rel="unfollow">
-<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="256" height="256" alt="Linkedin free icon" width="64" height="64" >
+<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="64" height="64" alt="Linkedin free icon" >
  </a>
 
 
