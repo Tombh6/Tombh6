@@ -61,7 +61,7 @@
  
  
  
-<img alt="Standard lockup logo" loading="lazy" src="/static/images/brand-guidelines/logo-standard.png">
+<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" srcset="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-1024.png 2x" alt="Firebase, google icon - Free download on Iconfinder" class="d-block mx-auto">
  
 
  
