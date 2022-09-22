@@ -21,7 +21,7 @@
 <h2>Languages</h2>
 <p>
 
-
+<img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" data-src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png"   width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/6132/6132222.png 4x">
 
 
  
