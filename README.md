@@ -61,21 +61,9 @@
  
  
  
- <img srcset="https://img.icons8.com/color/344/firebase.png 2x" alt="icon" loading="lazy" "width=64" "height=64">
+<img alt="Google Firebase Console icon" width="64" height="64"  srcset="https://img.icons8.com/color/2x/google-firebase-console.png 2x">
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
  <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" data-src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/2111/2111432.png 4x">
 
