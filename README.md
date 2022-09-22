@@ -43,6 +43,8 @@
 
  
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" data-src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="Js " title="Js " width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5968/5968292.png 4x">
+ 
+ <img src="https://cdn-icons-png.flaticon.com/128/5815/5815809.png" data-src="https://cdn-icons-png.flaticon.com/128/5815/5815809.png" alt="Sql server " title="Sql server " width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5815/5815809.png 4x">
 
 
 </p>
