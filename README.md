@@ -42,7 +42,7 @@
  <img src="https://cdn-icons-png.flaticon.com/128/919/919854.png" data-src="https://cdn-icons-png.flaticon.com/128/919/919854.png"  width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/919/919854.png 4x">
 
  
-
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" data-src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="Js " title="Js " width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5968/5968292.png 4x">
 
 
 </p>
