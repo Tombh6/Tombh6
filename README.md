@@ -61,7 +61,7 @@
  
  
  
-<img alt="Google Firebase Console icon" width="64" height="64"  srcset="https://img.icons8.com/color/2x/google-firebase-console.png 2x">
+<img alt="Standard lockup logo" loading="lazy" src="/static/images/brand-guidelines/logo-standard.png">
  
 
  
